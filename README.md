@@ -10,11 +10,11 @@ PyTorch implementation of [Learning to Discover Cross-Domain Relations with Gene
 
 `x_A` -> `G_AB(x_A)` -> `G_BA(G_AB(x_A))` (shoes -> handbag -> shoes)
 
-<img src="assets/DiscoGAN-shoes2bagsA-21.png" width="90%">
+<img src="assets/DiscoGAN-shoes2bagsA-21.png">
 
 `x_B` -> `G_BA(x_B)` -> `G_AB(G_BA(x_B))` (handbag -> shoes -> handbag)
 
-<img src="assets/DiscoGAN-shoes2bagsB-21.png" width="90%">
+<img src="assets/DiscoGAN-shoes2bagsB-21.png" >
 
 `Losses`
 
